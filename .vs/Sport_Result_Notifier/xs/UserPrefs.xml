@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{01A26A30-C82C-4890-AF55-50FC41433085}|Default">
-  <MonoDevelop.Ide.ItemProperties.Sport__Result__Notifier FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Sport__Result__Notifier PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sport_Result_Notifier/MailBox.cs">
+    <Files>
+      <File FileName="Sport_Result_Notifier/Program.cs" />
+      <File FileName="Sport_Result_Notifier/MailBox.cs" Line="23" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sport_Result_Notifier" expanded="True">
+            <Node name="Sport_Result_Notifier" expanded="True">
+              <Node name="MailBox.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
