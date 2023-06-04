@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5uqAnGrTmhNtRfeXmeEd2ww9HMpTzmJHHWiql0itzi5SQ7HpQ1SDhgAERp4GnE7sFrK146U588jcFpIoJynZYQ==",
+  "success": true,
+  "projectFilePath": "/Users/baglan/Projects/Sport_Result_Notifier/Sport_Result_Notifier/Sport_Result_Notifier.csproj",
+  "expectedPackageFiles": [
+    "/Users/baglan/.nuget/packages/bouncycastle.cryptography/2.1.1/bouncycastle.cryptography.2.1.1.nupkg.sha512",
+    "/Users/baglan/.nuget/packages/htmlagilitypack/1.11.46/htmlagilitypack.1.11.46.nupkg.sha512",
+    "/Users/baglan/.nuget/packages/mailkit/4.0.0/mailkit.4.0.0.nupkg.sha512",
+    "/Users/baglan/.nuget/packages/mimekit/4.0.0/mimekit.4.0.0.nupkg.sha512",
+    "/Users/baglan/.nuget/packages/system.formats.asn1/6.0.0/system.formats.asn1.6.0.0.nupkg.sha512",
+    "/Users/baglan/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/baglan/.nuget/packages/system.security.cryptography.pkcs/6.0.2/system.security.cryptography.pkcs.6.0.2.nupkg.sha512",
+    "/Users/baglan/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
